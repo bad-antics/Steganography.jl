@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.5"
+manifest_format = "2.0"
+project_hash = "2d0092c45cfe52c062a5be160c521462718a01e4"
+
+[[deps.Steganography]]
+path = "."
+uuid = "53c4cb79-37da-444d-bfb1-59e08689f1f6"
+version = "0.1.0"
